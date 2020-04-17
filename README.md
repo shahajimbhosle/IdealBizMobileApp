@@ -1,2 +1,0 @@
-# IdealBizMobileApp
-Created with CodeSandbox
