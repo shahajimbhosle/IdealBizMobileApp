@@ -1,6 +1,12 @@
 import React from "react";
-import { Text } from "react-native";
+import AppHeader from "../CommonComponents/AppHeader";
 
-const Login = props => <Text>Login page here.</Text>;
+const Login = props => {
+  return (
+    <>
+      <AppHeader />
+    </>
+  );
+};
 
 export default Login;
